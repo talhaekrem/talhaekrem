@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talha Ekrem</h1>
 <h3 align="center">A passionate frontend developer from Sakarya, Turkey</h3>
 
-- 🔭 I’m currently working on **Kolayöde Ödeme Hizmetleri**
-
 - 🤝 I’m looking for help with **learning NodeJS and ReactNative**
 
 - 💬 Ask me about **Javascript, ReactJS and anything you want to ask**
